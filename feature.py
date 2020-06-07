@@ -1,1 +1,1 @@
-|place| workspace |to| featured_list
+place | workspace | to | featured_list
