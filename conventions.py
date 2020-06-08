@@ -6,6 +6,7 @@ from galushktory import place
 def Place(x):
     return place(*x)
 
+
 @infix
 def to(a, b):
     return (a, b)
